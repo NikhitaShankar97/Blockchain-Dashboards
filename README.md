@@ -17,6 +17,7 @@ The purpose of this project is to uncover key insights into the trading behavior
 - **Top Wallet Activity:** Identifies wallets with the highest transaction counts.
 - **Trading Volume:** Analysis of daily and weekly trading trends.
 - **Success Rate:** Evaluation of transaction success percentages.
+- **SQL Integration:** Each visualization is powered by custom SQL queries, which can be viewed directly by clicking on the respective charts in the dashboard.
 
 ---
 
@@ -36,6 +37,7 @@ This dashboard analyzes BONK’s ecosystem to evaluate:
 - **Trading Volume Analysis:** Detailed trends over time.
 - **Whale Activity Tracking:** Insights into large-scale transactions.
 - **Engagement Metrics:** Data on active users and community growth.
+- **SQL Integration:** Every chart in the dashboard is backed by a well-crafted SQL query, accessible by clicking on the respective visualization.
 
 ---
 
@@ -56,6 +58,7 @@ This dashboard provides a comprehensive analysis of the PNUT token, focusing on:
 - **Risk Assessment Metrics:** Helps analysts evaluate potential risks.
 - **Volume Analysis:** Understand volatility and stability.
 - **Wallet Engagement:** Pinpoint active contributors to the token’s ecosystem.
+- **SQL Integration:** Users can view the SQL queries behind each visualization by interacting with the respective charts in the dashboard.
 
 ---
 
@@ -63,9 +66,8 @@ This dashboard provides a comprehensive analysis of the PNUT token, focusing on:
 
 1. Click on the dashboard title to open it on Dune Analytics.
 2. Explore the visualizations and filters provided to gain insights.
-3. Use the insights to inform your blockchain or business strategies.
-
----
+3. Interact with the charts to view the underlying SQL queries that power the visualizations.
+4. Use the insights to inform your blockchain or business strategies.
 
 
 
